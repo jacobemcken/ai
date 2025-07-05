@@ -1,5 +1,7 @@
 # AI setup
 
+## Installation
+
 The Docker Compose file expects Nvidia hardware to be available.
 
 I installed Ubuntu Server 24.04.2 LTS, but the included version of Docker (Snap)
@@ -14,3 +16,10 @@ Instead, I followed these steps:
 
 [1]: https://docs.docker.com/engine/install/ubuntu/
 [2]: https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html
+
+
+## System Prompt
+
+I've found inspiration on a couple of websites, but the best inspirations was probably:
+
+https://github.com/0xeb/TheBigPromptLibrary/blob/main/SystemPrompts/README.md
