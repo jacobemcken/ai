@@ -1,5 +1,9 @@
 # AI setup
 
+All written content in this repository is licensed under the license
+Creative Commons Attribution Share Alike 4.0 International
+or `CC-BY-SA-4.0` for short.
+
 ## Installation
 
 The Docker Compose file expects Nvidia hardware to be available.
